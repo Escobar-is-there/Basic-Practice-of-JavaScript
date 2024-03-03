@@ -130,6 +130,7 @@ Applying the ***sort()*** method to arrange elements in ascending order.
 **5.    Class 5: Functions**
 > **Focus and Overview:**
 
+
 This class emphasizes functions and their applications in JavaScript programming. Here's an overview of the key areas covered:
 
 **1. Introduction to Functions:**
