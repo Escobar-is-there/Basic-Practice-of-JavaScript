@@ -1,4 +1,9 @@
 // Question 1
+
+/* 1. Write code in JS: 
+Write a code that takes input for five numbers from the user using a loop. Check whether each number is even or odd and store the result (even/odd) in an array.
+Finally, display the array outside of the loop. 
+*/
 var prompt = require('prompt-sync')();
 var resultArray=[]
 for (let i = 0; i < 5; i++) {
@@ -10,7 +15,15 @@ for (let i = 0; i < 5; i++) {
     }
     }
 console.log(resultArray)
+
 // Question 2
+
+/* 2. Write code in JS : We have a matrix:
+[ [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9] ]
+Write a code that will increase the value of each element in this matrix by 1.  Display both the original and increased matrix..
+*/
 var ar1=[[1,2,3],
             [4,5,6],
             [7,8,9]]
@@ -36,7 +49,18 @@ for(i=2;i<3;i++){
             }
 final.push(ar2,ar3,ar4)
 console.log("Increased matrix: " ,final)
+
 //Question 3
+
+/* 3. Write code in JS
+mat = [
+  [2, 7, 89, 6],
+  [90, 45,3, 7],
+  [78, 56, 4, 2]
+]
+Write a code that stores the elements of the above 2D array in a 1D array. Display the final 1D array. 
+
+*/
 var mat=[[2,7,89,6],
          [90,45,3,7],
          [78,56,4,2]]
@@ -49,7 +73,12 @@ oneDarray.push(mat[i][j])
 }
 }
 console.log("1D matrix: " ,oneDarray)
+
 //Question 4
+
+/* 4. Run the below code in JS, write your output:
+By using a loop, write a code that takes 5 numbers from the user. Display both the sorted and unsorted versions of the numbers.
+*/
 var prompt = require('prompt-sync')();
 var Array=[]
 for (let i = 0; i < 5; i++) {
