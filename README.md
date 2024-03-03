@@ -1,4 +1,4 @@
-# Basic JavaScript Practice Assignments.
+# JavaScript Practice Assignments.
 
 I'd be glad to provide a breakdown of the class-wise code practice details, and addressing potential issues:
 
@@ -32,7 +32,7 @@ By completing the coding exercises in Class 1, you've gained a foundational unde
 
 *   Performing comparisons using operators (===, !==, >, <, >=, <=).
 
-[First Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/Class%201-var%2C%20data%20type%2C%20comparison%20operator.js)
+[First Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/Assignment_1_var%2C%20data%20type%2C%20comparison%20operator.js)
 
 **2. Class 2: Arithmetic Operators, Conditional Statements**
 > **Focus:**
@@ -63,7 +63,7 @@ By completing the coding exercises in Class 2, you'll solidify your grasp of ess
 *   Performing basic arithmetic operations (+, -, *, /).
 *   Using ***if*** statements for conditional execution based on comparisons.
 
-[Second Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/assignment_2_arithmetic%20operators%2CConditional%20statements.js)
+[Second Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/Assignment_2_arithmetic%20operators%2C%20conditional%20statements.js)
 
 
 **3.    Class 3: Logical Operators, Loops**
@@ -88,7 +88,7 @@ By completing these coding exercises, you'll reinforce your ability to create mo
 *   Combining logical operators (&&, || , !) for complex conditions.
 *   Using ***for*** loops to iterate over a specific number of times.
 
-[Third Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/assignment3_logical_operator%2Cloop.js)
+[Third Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/Assignment_3_logical%20operator%2C%20loop.js)
 
 **4.    Class 4: Arrays**
 > **Focus:**
@@ -123,7 +123,7 @@ By completing these coding exercises, you'll reinforce your ability to create mo
 * **Sorting:**
 Applying the ***sort()*** method to arrange elements in ascending order.
 
-[Fourth Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/assignment_4_array.js)
+[Fourth Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/Assignment_4_array.js)
 
 **5.    Class 5: Functions**
 > **Focus and Overview:**
@@ -152,5 +152,6 @@ Returning values: You'll write functions that return calculated results or retri
 Through these exercises, you'll gain a strong foundation in function creation, utilization, and their role in code reusability and modularity. You'll also explore how functions can be used for calculations, user interactions, and manipulating data within arrays and their power in creating modular and efficient JavaScript programs.
 
 
-[Fifth Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/assignment5_function.js)
+[Fifth Assignment Link](https://github.com/Escobar-is-there/Basic_js_Practice/blob/main/Assignment_5_function.js)
+
 
