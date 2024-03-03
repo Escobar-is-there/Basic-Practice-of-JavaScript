@@ -68,6 +68,8 @@ By completing the coding exercises in Class 2, you'll solidify your grasp of ess
 
 **3.    Class 3: Logical Operators, Loops**
 > **Focus:**
+
+
 This class focuses on solidifying your understanding of logical operators and loops in JavaScript through practical exercises. Here's a breakdown of the key points:
 
 * **Logical Operators:**
