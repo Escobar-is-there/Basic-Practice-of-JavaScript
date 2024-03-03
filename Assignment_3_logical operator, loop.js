@@ -30,7 +30,6 @@ for (var i = 1; i <= 500; i++) {
 }
 console.log("The Sum of all even number Between 1 and 500 is : ",sum )
 
-
 //Question 3
 
 /* 3. Write code in JS : Write a code to calculate and display the sum of all odd numbers between 1 and 500.
@@ -60,4 +59,3 @@ var nth_term = a+(n-1)*d
 console.log("The n_th Term of series : ",nth_term)
 var sum = n/2*(2*a+(n-1)*d)
 console.log("The Sum of The Series up to 100th Term is : ",sum)
-
